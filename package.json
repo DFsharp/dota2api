@@ -6,7 +6,7 @@
   "scripts": {
     "test": "mocha -c ./test/index.js"
   },
-  "repository": "https://github.com/a70ma/dota2api",
+  "repository": "https://github.com/dfsharp/dota2api",
   "keywords": [
     "dota2",
     "dota",
